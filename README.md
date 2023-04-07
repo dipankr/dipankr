@@ -2,12 +2,12 @@
 <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=dipankr&label=Visitors&color=0fba03&style=flat" alt="dipankr" /> 
 </p>
-<h3 align="center"> Welcome to my page </h3>
+<h3 align="center"> Welcome to my page 🙏</h3>
 
 - 🔭 I’m a Software Developer based out of India, currently working as a Full-Stack Engineer (~7 years)
 - 🌱 I’m looking to contribute and collborate in open source community
 - ⚡ Fun fact: I enjoy cooking, music, sleeping
-- 📫 mail: [📧 dipanker_kr](dipanker_kr@outlook.com)
+- 📫 mail: [📧 dipanker_kr](mailto:dipanker_kr@outlook.com)
 
 <h3> Some tools I use</h3>
 <p>
