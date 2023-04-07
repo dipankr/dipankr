@@ -1,6 +1,7 @@
 <h1 align="center"> Hey, I'm Dipanker!</h1>
-
----
+<p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=dipankr&label=Visitors&color=0fba03&style=flat" alt="dipankr" /> 
+</p>
 <h3 align="center"> Welcome to my page </h3>
 
 - 🔭 I’m a Software Developer based out of India, currently working as a Full-Stack Engineer (~7 years)
@@ -44,9 +45,4 @@
   <a href="https://discord.gg/PMb2AZwm" target="_blank">
     <img alt="Dipanker | Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
   </a>
-</p>
-
----
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=dipankr&label=Visitors&color=0fba03&style=flat" alt="dipankr" /> 
 </p>
