@@ -11,7 +11,7 @@
 <table>
     <tr>
         <td> <a href="https://github.com/dipankr/todo-BE" style="font-weight: bold">Todo-BE</a> </td>
-        <td style="padding-top: 15px">
+        <td style="padding-top: 3%">
             <img src="https://github.com/dipankr/todo-BE/actions/workflows/maven.yml/badge.svg"  alt="dipankr"/> <img src="https://github.com/dipankr/todo-BE/actions/workflows/postmanCLI.yml/badge.svg"  alt="dipankr"/>
         </td>
     </tr>
