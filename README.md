@@ -19,7 +19,6 @@
         <td> <a href="https://github.com/dipankr/todo-FE" style="font-weight: bolder">Todo-FE</a> </td>
         <td style="padding-top: 4%">
             <img src="https://github.com/dipankr/todo-FE/actions/workflows/node.js.yml/badge.svg" alt="dipankr"/>
-            
         </td>
     </tr>
 </table>
