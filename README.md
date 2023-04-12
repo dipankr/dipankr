@@ -18,7 +18,7 @@
     <tr>
         <td> <a href="https://github.com/dipankr/todo-FE" style="font-weight: bolder">Todo-FE</a> </td>
         <td style="padding-top: 1rem">
-            <img src="https://github.com/dipankr/todo-FE/actions/workflows/node.js.yml/badge.svg" alt="dipankr"/> <a href="https://dipankr.github.io/todo-FE/" style="padding-left: 1rem; font-weight: bolder; padding-top: -10rem"> <img src="https://gist.githubusercontent.com/prrashi/8e7e9ead9b56db007f99880afd1aeaf0/raw/74fb246acc82edfe31c1a4ef81165e9f640ae212/globe.svg" width="22" alt="server" title="Server"/></a>
+            <img src="https://github.com/dipankr/todo-FE/actions/workflows/node.js.yml/badge.svg" alt="dipankr"/> <a href="https://dipankr.github.io/todo-FE/" style="padding-left: 5rem; font-weight: bolder;"> <img src="https://gist.githubusercontent.com/prrashi/8e7e9ead9b56db007f99880afd1aeaf0/raw/74fb246acc82edfe31c1a4ef81165e9f640ae212/globe.svg" width="22" alt="server" title="Server"/></a>
         </td>
     </tr>
 </table>
@@ -43,9 +43,9 @@
 
 ---
 <p align="center" style="align-content: space-around">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankr&layout=compact&theme=dark&hide_border=true&locale=en" alt="dipankr"/>
   <img src="https://github-readme-stats.vercel.app/api?username=dipankr&show_icons=true&theme=dark&hide_border=true&locale=en" alt="dipankr" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipankr&theme=dark&hide_border=true&locale=en" alt="dipankr" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankr&layout=compact&theme=dark&hide_border=true&locale=en" alt="dipankr"/>
 </p>
 
 
@@ -63,4 +63,8 @@
   <a href="https://discord.gg/PMb2AZwm" target="_blank">
     <img alt="Dipanker | Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
   </a>
+</p>
+
+<p align="right">
+    <a href="https://paypal.me/dipankerkr/"><img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/dark.svg" height="40"></a>  
 </p>
