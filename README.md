@@ -45,7 +45,8 @@
 <p align="center" style="align-content: space-around">
   <img src="https://github-readme-stats.vercel.app/api?username=dipankr&show_icons=true&theme=dark&hide_border=true&locale=en" alt="dipankr" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipankr&theme=dark&hide_border=true&locale=en" alt="dipankr" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankr&layout=compact&theme=dark&hide_border=true&locale=en" alt="dipankr"/>
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankr&layout=compact&theme=dark&hide_border=true&locale=en" alt="dipankr"/>)
 </p>
 
 
