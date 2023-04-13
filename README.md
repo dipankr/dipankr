@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> Hey, I'm Dipanker!</h1>
 
-- 🔭 Software Developer based out of India, currently working as a Full-Stack Engineer (~7 years)
+- 🔭 Software Developer based out of India, currently working as a Full-Stack Engineer
 - 🌱 looking to contribute and collaborate in open source community
 - ⚡  enjoy cooking, music, sleeping
 - 📫 mail: [📧 dipanker_kr](mailto:dipanker_kr@outlook.com)
