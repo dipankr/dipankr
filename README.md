@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> Hey, I'm Dipanker!</h1>
 
-- 🔭 Software Developer based out of India, currently working as a Full-Stack Engineer (~7 years)
+- 🔭 Software Developer based out of India, currently working as a Full-Stack Engineer
 - 🌱 looking to contribute and collaborate in open source community
 - ⚡  enjoy cooking, music, sleeping
 - 📫 mail: [📧 dipanker_kr](mailto:dipanker_kr@outlook.com)
@@ -18,7 +18,7 @@
     <tr>
         <td> <a href="https://github.com/dipankr/todo-FE" style="font-weight: bolder">Todo-FE</a> </td>
         <td style="padding-top: 1rem">
-            <img src="https://github.com/dipankr/todo-FE/actions/workflows/node.js.yml/badge.svg" alt="dipankr"/> <a href="https://dipankr.github.io/todo-FE/" style="padding-left: 5rem; font-weight: bolder;"> <img src="https://gist.githubusercontent.com/prrashi/8e7e9ead9b56db007f99880afd1aeaf0/raw/74fb246acc82edfe31c1a4ef81165e9f640ae212/globe.svg" width="22" alt="server" title="Server"/></a>
+            <img src="https://github.com/dipankr/todo-FE/actions/workflows/node.js.yml/badge.svg" alt="dipankr"/> 
         </td>
     </tr>
 </table>
@@ -50,24 +50,14 @@
 </p>
 
 
-<h3 align="center"> Connect with me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/dipankr/" target="_blank">
-    <img alt="Dipanker | LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/_dippz_" target="_blank">
-    <img alt="Dipanker | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
-  <a href="https://t.me/qz_x_x_zp" target="_blank">
-    <img alt="Dipanker | Telegram" width="30px" src="https://raw.githubusercontent.com/inferno0230/inferno0230/main/assets/telegram-icon.svg"/>
-  </a>
-  <a href="https://discord.gg/PMb2AZwm" target="_blank">
-    <img alt="Dipanker | Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<h1 align="right" style="padding-right: 1rem; font-family: 'Brush Script MT',monospace; "> Like what I do ? </h1>
+<div align="right"><a href="https://paypal.me/dipankerkr/">
+    <img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/dark.svg" height="40">
+</a></div>
+
+<p align="right">
+  <a href="https://t.me/qz_x_x_zp" target="_blank" style="filter: opacity(20%)">
+    <img alt="" width="15px" src="https://raw.githubusercontent.com/inferno0230/inferno0230/main/assets/telegram-icon.svg"/>
   </a>
 </p>
 
-<p align="right">
-    <a href="https://paypal.me/dipankerkr/">
-        <img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/dark.svg" height="40" alt="Paypal" title="Like what I do?">
-    </a>  
-</p>
