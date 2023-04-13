@@ -49,14 +49,14 @@
 [//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankr&layout=compact&theme=dark&hide_border=true&locale=en" alt="dipankr"/>)
 </p>
 
-
-<h1 align="right" style="padding-right: 1rem; font-family: 'Brush Script MT',monospace; "> Like what I do ? </h1>
-<div align="right"><a href="https://paypal.me/dipankerkr/">
-    <img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/dark.svg" height="40">
-</a></div>
-
 <p align="right">
   <a href="https://t.me/qz_x_x_zp" target="_blank" style="filter: opacity(20%)">
-    <img alt="" width="15px" src="https://raw.githubusercontent.com/inferno0230/inferno0230/main/assets/telegram-icon.svg"/>
+    <img alt="" width="5px" src="https://raw.githubusercontent.com/inferno0230/inferno0230/main/assets/telegram-icon.svg"/>
   </a>
 </p>
+
+<div align="right"> 
+    <a href="https://paypal.me/dipankerkr/">
+        <img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/dark.svg" height="40">
+    </a> 
+</div>
