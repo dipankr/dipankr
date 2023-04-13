@@ -67,5 +67,7 @@
 </p>
 
 <p align="right">
-    <a href="https://paypal.me/dipankerkr/"><img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/dark.svg" height="40"></a>  
+    <a href="https://paypal.me/dipankerkr/">
+        <img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/dark.svg" height="40" alt="Paypal" title="Like what I do?">
+    </a>  
 </p>
