@@ -60,4 +60,3 @@
     <img alt="" width="15px" src="https://raw.githubusercontent.com/inferno0230/inferno0230/main/assets/telegram-icon.svg"/>
   </a>
 </p>
-
