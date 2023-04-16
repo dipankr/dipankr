@@ -19,7 +19,7 @@
     <tr>
         <td align="center"> <a href="https://github.com/dipankr/todo-BE" style="font-weight: bolder">Todo-BE</a> </td>
         <td style="padding-top: 1rem">
-            <img src="https://github.com/dipankr/todo-BE/actions/workflows/maven.yml/badge.svg"  alt="dipankr"/><img src="https://github.com/dipankr/todo-BE/actions/workflows/postmanCLI.yml/badge.svg"  alt="dipankr"/> 
+            <img src="https://github.com/dipankr/todo-BE/actions/workflows/maven.yml/badge.svg"  alt="dipankr"/><img src="https://github.com/dipankr/todo-BE/actions/workflows/postmanCLI.yml/badge.svg"  alt="dipankr"/> <img src="https://img.shields.io/github/repo-size/dipankr/todo-BE" alt=""/>
         </td>
         <td align="center">
             <a href="https://todo-uyt1.onrender.com"> <img src="https://gist.githubusercontent.com/prrashi/8e7e9ead9b56db007f99880afd1aeaf0/raw/74fb246acc82edfe31c1a4ef81165e9f640ae212/globe.svg" width="20"  alt=""></a>
@@ -28,7 +28,7 @@
     <tr>
         <td align="center"> <a href="https://github.com/dipankr/todo-FE" style="font-weight: bolder">Todo-FE</a> </td>
         <td style="padding-top: 1rem">
-            <img src="https://github.com/dipankr/todo-FE/actions/workflows/node.js.yml/badge.svg" alt="dipankr"/> 
+            <img src="https://github.com/dipankr/todo-FE/actions/workflows/node.js.yml/badge.svg" alt="dipankr"/> <img src="https://img.shields.io/github/repo-size/dipankr/todo-FE" alt=""/>
         </td>
         <td align="center">
             <a href="https://dipankr.github.io/todo-fe-react/"> <img src="https://gist.githubusercontent.com/prrashi/8e7e9ead9b56db007f99880afd1aeaf0/raw/74fb246acc82edfe31c1a4ef81165e9f640ae212/globe.svg" width="20"  alt=""></a>
@@ -37,7 +37,7 @@
     <tr>
         <td align="center"> <a href="https://github.com/dipankr/todo-FE-react" style="font-weight: bolder">Todo-FE <br> (React) </a> </td>
         <td style="padding-top: 1rem">
-            <img src="https://github.com/dipankr/todo-FE-react/actions/workflows/nodeCI.yml/badge.svg" alt="dipankr"/>
+            <img src="https://img.shields.io/github/repo-size/dipankr/todo-fe-react" alt=""/>
         </td>
         <td align="center">
             <a href="https://dipankr.github.io/todo-fe-react/"> <img src="https://gist.githubusercontent.com/prrashi/8e7e9ead9b56db007f99880afd1aeaf0/raw/74fb246acc82edfe31c1a4ef81165e9f640ae212/globe.svg" width="20"  alt=""></a>
