@@ -34,9 +34,10 @@
             <a href="https://dipankr.github.io/todo-fe-react/"> <img src="https://gist.githubusercontent.com/prrashi/8e7e9ead9b56db007f99880afd1aeaf0/raw/74fb246acc82edfe31c1a4ef81165e9f640ae212/globe.svg" width="20"  alt=""></a>
         </td>
     </tr>
-    <tr>
+    <tr> 
         <td align="center"> <a href="https://github.com/dipankr/todo-FE-react" style="font-weight: bolder">Todo-FE <br> (React) </a> </td>
         <td style="padding-top: 1rem">
+            <img src="https://github.com/dipankr/todo-fe-react/actions/workflows/nodeci.yml/badge.svg?branch=main" alt="dipankr"/>
             <img src="https://img.shields.io/github/repo-size/dipankr/todo-fe-react" alt=""/>
         </td>
         <td align="center">
