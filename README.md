@@ -66,10 +66,10 @@
 
 ---
 <p align="center" style="align-content: space-around">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipankr&show_icons=true&theme=dark&hide_border=true&locale=en" alt="dipankr" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipankr&theme=dark&hide_border=true&locale=en" alt="dipankr" />
-
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankr&layout=compact&theme=dark&hide_border=true&locale=en" alt="dipankr"/>)
+    <img width=40% src="https://github-readme-stats.vercel.app/api?username=dipankr&show_icons=true&theme=dark&hide_border=true&locale=en" alt="dipankr" />
+    <img width=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankr&layout=compact&theme=dark&hide_border=true&locale=en" alt="dipankr"/>
+    <img width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=dipankr&theme=dark&hide_border=true&locale=en" alt="dipankr" />
+    <img width=30% alt="trophy" src="https://github-profile-trophy.vercel.app/?username=dipankr&theme=discord&row=2&column=4"/>
 </p>
 
 <p align="right">
@@ -83,3 +83,7 @@
         <img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/dark.svg" height="40">
     </a> 
 </div>
+
+---
+
+### You can add your testimonial [here](https://github.com/dipankr/dipankr/discussions/14) and I will add it to my [Testimonials](TESTIMONIALS.md) file.
