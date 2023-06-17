@@ -19,7 +19,7 @@
     <tr>
         <td align="center"> <a href="https://github.com/dipankr/todo-BE" style="font-weight: bolder">Todo-BE</a> </td>
         <td style="padding-top: 1rem">
-            <img src="https://github.com/dipankr/todo-BE/actions/workflows/maven.yml/badge.svg"  alt="dipankr"/><img src="https://github.com/dipankr/todo-BE/actions/workflows/postmanCLI.yml/badge.svg"  alt="dipankr"/> <img src="https://img.shields.io/github/repo-size/dipankr/todo-BE" alt=""/>
+            <img src="https://github.com/dipankr/todo-BE/actions/workflows/maven.yml/badge.svg"  alt="dipankr"/> <img src="https://github.com/dipankr/todo-BE/actions/workflows/postmanCLI.yml/badge.svg"  alt="dipankr"/> <img src="https://img.shields.io/github/repo-size/dipankr/todo-BE" alt=""/>
         </td>
         <td align="center">
             <a href="https://todo-uyt1.onrender.com"> <img src="https://gist.githubusercontent.com/prrashi/8e7e9ead9b56db007f99880afd1aeaf0/raw/74fb246acc82edfe31c1a4ef81165e9f640ae212/globe.svg" width="20"  alt=""></a>
@@ -51,7 +51,8 @@
 <h3> Tools I use</h3>
 <p>
     <code><img height="30" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
-    <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+    <code><img height="30" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
+<code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
     <code><img height="30" alt="springboot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"></code>
     <code><img height="30" alt="mssqlserver" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></code>
     <code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
