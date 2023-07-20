@@ -5,8 +5,8 @@
 
 - 🔭 Software Developer based out of India, currently working as a Full-Stack Engineer
 - 🌱 looking to contribute and collaborate in open source community
-- ⚡  enjoy cooking, music, sleeping
-- 📫 mail: [📧 dipanker_kr](mailto:dipanker_kr@outlook.com)
+- ⚡  enjoy music, sleeping, cooking
+
 
 ---
 
@@ -46,6 +46,7 @@
     </tr>
 </table>
 
+`The backend service is down as I've exhausted my free instance quota, will need to migrate it.`
 ---
 
 <h3> Tools I use</h3>
