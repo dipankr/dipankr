@@ -88,4 +88,4 @@
 
 ---
 
-You can add your testimonial [here](https://github.com/dipankr/dipankr/discussions/14) and I will add it to my [Testimonials](TESTIMONIALS.md) file.
+> You can add your testimonial [here](https://github.com/dipankr/dipankr/discussions/14) and I will add it to my [Testimonials](TESTIMONIALS.md) file.
