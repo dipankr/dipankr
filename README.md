@@ -10,7 +10,7 @@
 
 ---
 
-<table>
+<table align="center">
     <tr style="font-weight: 600; font-size: 1.5rem">
         <td align="center">App</td>
         <td>Build</td>
