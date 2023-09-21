@@ -75,7 +75,7 @@
 </p>
 
 <p align="right">
-  <a href="https://t.me/qz_x_x_zp" target="_blank" style="filter: opacity(20%)">
+  <a href="https://t.me/qx_x_x_xp" target="_blank" style="filter: opacity(20%)">
     <img alt="" width="5px" src="https://raw.githubusercontent.com/inferno0230/inferno0230/main/assets/telegram-icon.svg"/>
   </a>
 </p>
