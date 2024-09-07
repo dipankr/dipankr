@@ -17,7 +17,7 @@
         <td align="center">Deploy</td>
     </tr>
     <tr>
-        <td align="center"> <a href="https://github.com/dipankr/todo-BE" style="font-weight: bolder">Todo-BE<sup id="a1">[1](#f1)</sup></a> </td>
+        <td align="center"> <a href="https://github.com/dipankr/todo-BE" style="font-weight: bolder">Todo-BE</a> </td>
         <td style="padding-top: 1rem">
             <img src="https://github.com/dipankr/todo-BE/actions/workflows/maven.yml/badge.svg"  alt="dipankr"/> <img src="https://github.com/dipankr/todo-BE/actions/workflows/postmanCLI.yml/badge.svg"  alt="dipankr"/> <img src="https://img.shields.io/github/repo-size/dipankr/todo-BE" alt=""/>
         </td>
@@ -46,7 +46,7 @@
     </tr>
 </table>
 
-> <b id="f1">1</b> The backend service is down as I've exhausted my free instance quota [↩](#a1)
+> The backend service is down as I've exhausted my free instance quota
 ---
 <details>
 <summary><b> Tools I use</b></summary>
