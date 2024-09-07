@@ -97,3 +97,7 @@
 ---
 
 **[Add your testimonial here](https://github.com/dipankr/dipankr/discussions/14)**
+
+**Dev Quote**
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
