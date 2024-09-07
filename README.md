@@ -48,8 +48,7 @@
 
 > The backend service is down as I've exhausted my free instance quota
 ---
-<details>
-<summary><b>:wrench: Tools I use</b></summary>
+<b>:hammer_and_wrench: Tools I use</b>
 <p align="center">
     <code><img height="30" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
     <code><img height="30" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
@@ -65,7 +64,6 @@
     <code><img height="30" alt="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"></code>
     <code><img height="30" alt="tomcat" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg"></code>
 </p>
-</details>
 
 
 <details>
