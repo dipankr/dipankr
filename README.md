@@ -73,7 +73,7 @@
 <p align="center" style="align-content: space-around">
     <img width=50% src="https://github-readme-stats.vercel.app/api?username=dipankr&show_icons=true&theme=dark&hide_border=true&locale=en" alt="dipankr" />
     <img width=38% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankr&layout=compact&theme=dark&hide_border=true&locale=en" alt="dipankr"/>
-    <img width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=dipankr&theme=dark&hide_border=true&locale=en" alt="dipankr" />
+    <img width=50% src="https://github-readme-streak-stats.herokuapp.com?user=dipankr&theme=dark&hide_border=true&locale=en" alt="dipankr" />
     <img width=39% alt="trophy" src="https://github-profile-trophy.vercel.app/?username=dipankr&theme=discord&row=2&column=4"/>
 </p>
 </details>
