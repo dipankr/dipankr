@@ -50,7 +50,7 @@
 ---
 <details>
 <summary><b> Tools I use</b></summary>
-<p>
+<p align="center">
     <code><img height="30" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
     <code><img height="30" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
     <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
