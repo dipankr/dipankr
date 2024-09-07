@@ -5,12 +5,12 @@
 
 - 🔭 Software Developer based out of India, currently working as a Full-Stack Engineer
 - 🌱 looking to contribute and collaborate in open source community
-- ⚡  enjoy cooking, music, sleeping
-- 📫 mail: [📧 dipanker_kr](mailto:dipanker_kr@outlook.com)
+- ⚡  enjoy music, sleeping, cooking
+
 
 ---
 
-<table>
+<table align="center">
     <tr style="font-weight: 600; font-size: 1.5rem">
         <td align="center">App</td>
         <td>Build</td>
@@ -46,10 +46,11 @@
     </tr>
 </table>
 
+> The backend service is down as I've exhausted my free instance quota, will need to migrate it.
 ---
 
 <h3> Tools I use</h3>
-<p>
+<p align="center">
     <code><img height="30" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
     <code><img height="30" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
@@ -79,7 +80,7 @@
 <details>
 <summary><b>Donate</b></summary>
 <p align="right">
-  <a href="https://t.me/qz_x_x_zp" target="_blank" style="filter: opacity(20%)">
+  <a href="https://t.me/qx_x_x_xp" target="_blank" style="filter: opacity(20%)">
     <img alt="" width="5px" src="https://raw.githubusercontent.com/inferno0230/inferno0230/main/assets/telegram-icon.svg"/>
   </a>
 </p>
@@ -92,6 +93,6 @@
 
 ---
 
-### You can add your testimonial [here](https://github.com/dipankr/dipankr/discussions/14) and I will add it to my [Testimonials](TESTIMONIALS.md) file.
+> You can add your testimonial [here](https://github.com/dipankr/dipankr/discussions/14) and I will add it to my [Testimonials](TESTIMONIALS.md) file.
 
 </details>
