@@ -97,4 +97,4 @@
 -->
 ---
 
-**[Add your testimonial here](https://github.com/dipankr/dipankr/discussions/14).**
+**[Add your testimonial here](https://github.com/dipankr/dipankr/discussions/14)**
