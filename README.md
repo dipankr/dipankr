@@ -17,7 +17,7 @@
         <td align="center">Deploy</td>
     </tr>
     <tr>
-        <td align="center"> <a href="https://github.com/dipankr/todo-BE" style="font-weight: bolder">Todo-BE</a> </td>
+        <td align="center"> <a href="https://github.com/dipankr/todo-BE" style="font-weight: bolder">Todo-BE[^1]</a> </td>
         <td style="padding-top: 1rem">
             <img src="https://github.com/dipankr/todo-BE/actions/workflows/maven.yml/badge.svg"  alt="dipankr"/> <img src="https://github.com/dipankr/todo-BE/actions/workflows/postmanCLI.yml/badge.svg"  alt="dipankr"/> <img src="https://img.shields.io/github/repo-size/dipankr/todo-BE" alt=""/>
         </td>
@@ -31,7 +31,7 @@
             <img src="https://github.com/dipankr/todo-FE/actions/workflows/node.js.yml/badge.svg" alt="dipankr"/> <img src="https://img.shields.io/github/repo-size/dipankr/todo-FE" alt=""/>
         </td>
         <td align="center">
-            <a href="https://dipankr.github.io/todo-fe-react/"> <img src="https://gist.githubusercontent.com/prrashi/8e7e9ead9b56db007f99880afd1aeaf0/raw/74fb246acc82edfe31c1a4ef81165e9f640ae212/globe.svg" width="20"  alt=""></a>
+            <a href="https://dipankr.github.io/todo-FE/"> <img src="https://gist.githubusercontent.com/prrashi/8e7e9ead9b56db007f99880afd1aeaf0/raw/74fb246acc82edfe31c1a4ef81165e9f640ae212/globe.svg" width="20"  alt=""></a>
         </td>
     </tr>
     <tr> 
@@ -46,7 +46,7 @@
     </tr>
 </table>
 
-> The backend service is down as I've exhausted my free instance quota
+> [^1]The backend service is down as I've exhausted my free instance quota
 ---
 <details>
 <summary><b> Tools I use</b></summary>
@@ -96,6 +96,7 @@
 </details>
 -->
 ---
-
-> You can add your testimonial [here](https://github.com/dipankr/dipankr/discussions/14) and I will add it to my [Testimonials](TESTIMONIALS.md) file.
-
+<details>
+<summary><b>Add a Testimonial</b></summary>
+> You can add your testimonial [here](https://github.com/dipankr/dipankr/discussions/14).
+</details>
