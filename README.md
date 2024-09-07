@@ -66,13 +66,18 @@
 </p>
 
 ---
+<details>
+<summary><b>:zap: GitHub Stats</b></summary>
 <p align="center" style="align-content: space-around">
     <img width=50% src="https://github-readme-stats.vercel.app/api?username=dipankr&show_icons=true&theme=dark&hide_border=true&locale=en" alt="dipankr" />
     <img width=38% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankr&layout=compact&theme=dark&hide_border=true&locale=en" alt="dipankr"/>
     <img width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=dipankr&theme=dark&hide_border=true&locale=en" alt="dipankr" />
     <img width=39% alt="trophy" src="https://github-profile-trophy.vercel.app/?username=dipankr&theme=discord&row=2&column=4"/>
 </p>
+</details>
 
+<details>
+<summary><b>Donate</b></summary>
 <p align="right">
   <a href="https://t.me/qz_x_x_zp" target="_blank" style="filter: opacity(20%)">
     <img alt="" width="5px" src="https://raw.githubusercontent.com/inferno0230/inferno0230/main/assets/telegram-icon.svg"/>
@@ -88,3 +93,5 @@
 ---
 
 ### You can add your testimonial [here](https://github.com/dipankr/dipankr/discussions/14) and I will add it to my [Testimonials](TESTIMONIALS.md) file.
+
+</details>
