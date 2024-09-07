@@ -69,6 +69,7 @@
 <details>
 <summary><b>:chart_with_upwards_trend: GitHub Stats</b></summary>
 <p align="center" style="align-content: space-around">
+    <img width="85%" src="https://github-contributor-stats.vercel.app/api?username=dipankr&limit=3&theme=dark&combine_all_yearly_contributions=true&hide_border=true"/>    
     <img width=50% src="https://github-readme-stats.vercel.app/api?username=dipankr&show_icons=true&theme=dark&hide_border=true&locale=en&count_private=true&rank_icon=github" alt="dipankr's stats" />
     <img width=38% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankr&layout=compact&theme=dark&hide_border=true&locale=en" alt="dipankr languages"/>
     <img width=50% src="https://github-readme-streak-stats.herokuapp.com?user=dipankr&theme=dark&hide_border=true&locale=en" alt="dipankr's streak" />
