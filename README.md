@@ -49,8 +49,6 @@
 <code> The backend service is down as I've exhausted my free instance quota </code>
 </details>
 
-
----
 <b>:hammer_and_wrench: Tools I use</b>
 <p align="center">
     <code><img height="30" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
