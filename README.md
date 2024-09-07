@@ -69,7 +69,7 @@
 
 
 <details>
-<summary><b>:bar_chart: GitHub Stats</b></summary>
+<summary><b>:chart_with_upwards_trend: GitHub Stats</b></summary>
 <p align="center" style="align-content: space-around">
     <img width=50% src="https://github-readme-stats.vercel.app/api?username=dipankr&show_icons=true&theme=dark&hide_border=true&locale=en" alt="dipankr" />
     <img width=38% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankr&layout=compact&theme=dark&hide_border=true&locale=en" alt="dipankr"/>
