@@ -1,7 +1,7 @@
 <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=dipankr&label=Visitors&color=0fba03&style=flat" alt="dipankr" /> 
 </p>
-<img align="center" src="assets/media/messagif.gif" /> 
+<img align="center" width="100%" src="assets/media/messagif.gif" /> 
 
 - 🔭 Software Developer based out of India, currently working as a Full-Stack Engineer
 - 🌱 looking to contribute and collaborate in open source community
