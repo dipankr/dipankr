@@ -9,8 +9,26 @@
 
 
 ---
+
+<b>:hammer_and_wrench: Tools I use</b>
+<p align="center">
+    <code><img height="30" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
+    <code><img height="30" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
+    <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+    <code><img height="30" alt="springboot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"></code>
+    <code><img height="30" alt="mssqlserver" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></code>
+    <code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+    <code><img height="30" alt="intellij" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></code>
+    <code><img height="30" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"></code>
+    <code><img height="30" alt="aws" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
+    <code><img height="30" alt="gradle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original-wordmark.svg"></code>
+    <code><img height="30" alt="jira" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg"></code>
+    <code><img height="30" alt="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"></code>
+    <code><img height="30" alt="tomcat" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg"></code>
+</p>
+
 <details>
-<summary><b>POC: TODO List (SpringBoot + React + CI/CD + GitHub Actions)</b></summary>
+<summary><b>Project: TODO List (SpringBoot + React + CI/CD + GitHub Actions)</b></summary>
 <table align="center">
     <tr style="font-weight: 600; font-size: 1.5rem">
         <td align="center">App</td>
@@ -47,24 +65,9 @@
     </tr>
 </table>
 <code> The backend service is down as I've exhausted my free instance quota </code>
-</details>
 
-<b>:hammer_and_wrench: Tools I use</b>
-<p align="center">
-    <code><img height="30" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
-    <code><img height="30" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
-    <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-    <code><img height="30" alt="springboot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"></code>
-    <code><img height="30" alt="mssqlserver" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></code>
-    <code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-    <code><img height="30" alt="intellij" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></code>
-    <code><img height="30" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"></code>
-    <code><img height="30" alt="aws" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
-    <code><img height="30" alt="gradle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original-wordmark.svg"></code>
-    <code><img height="30" alt="jira" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg"></code>
-    <code><img height="30" alt="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"></code>
-    <code><img height="30" alt="tomcat" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg"></code>
-</p>
+---
+</details>
 
 <details>
 <summary><b>:chart_with_upwards_trend: My GitHub Stats</b></summary>
@@ -97,7 +100,7 @@
 
 ---
 
-**Dev Quote**
+**Quote**
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
