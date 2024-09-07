@@ -98,5 +98,5 @@
 ---
 <details>
 <summary><b>Add a Testimonial</b></summary>
-<span>You can add your testimonial <a href="https://github.com/dipankr/dipankr/discussions/14">here</a>.</span>
+<span><b>You can add your testimonial <a href="https://github.com/dipankr/dipankr/discussions/14">here</a>.</b></span>
 </details>
