@@ -65,9 +65,9 @@
     <code><img height="30" alt="tomcat" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg"></code>
 </p>
 
-
+<h3>:chart_with_upwards_trend: GitHub Stats</h3>
 <details>
-<summary><b>:chart_with_upwards_trend: GitHub Stats</b></summary>
+<summary><b>open</b></summary>
 <p align="center" style="align-content: space-around">
     <img width="85%" src="https://github-contributor-stats.vercel.app/api?username=dipankr&limit=3&theme=dark&combine_all_yearly_contributions=true&hide_border=true"/>    
     <img width=50% src="https://github-readme-stats.vercel.app/api?username=dipankr&show_icons=true&theme=dark&hide_border=true&locale=en&count_private=true&rank_icon=github" alt="dipankr's stats" />
@@ -94,10 +94,12 @@
 
 </details>
 -->
----
 
-**[Add your testimonial here](https://github.com/dipankr/dipankr/discussions/14)**
+---
 
 **Dev Quote**
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+**[Add your testimonial here](https://github.com/dipankr/dipankr/discussions/14)**
+
