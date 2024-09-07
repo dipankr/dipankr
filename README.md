@@ -9,8 +9,8 @@
 
 
 ---
-
-<b>:hammer_and_wrench: Tools I use</b>
+<details open>
+<summary><b>:hammer_and_wrench: Tools I use</b></summary>
 <p align="center">
     <code><img height="30" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
     <code><img height="30" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
@@ -27,6 +27,9 @@
     <code><img height="30" alt="tomcat" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg"></code>
 </p>
 
+</details>
+
+<!-- TODO List -->
 <details>
 <summary><b>Project: TODO List (SpringBoot + React + CI/CD + GitHub Actions)</b></summary>
 <table align="center">
@@ -69,10 +72,11 @@
 ---
 </details>
 
-<details>
+<!-- GitHub Stats -->
+<details open>
 <summary><b>:chart_with_upwards_trend: My GitHub Stats</b></summary>
 <p align="center" style="align-content: space-around">
-    <img width="85%" src="https://github-contributor-stats.vercel.app/api?username=dipankr&limit=3&theme=dark&combine_all_yearly_contributions=true&hide_border=true"/>    
+    <img width="85%" src="https://github-contributor-stats.vercel.app/api?username=dipankr&limit=3&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Contributions"/>    
     <img width=50% src="https://github-readme-stats.vercel.app/api?username=dipankr&show_icons=true&theme=dark&hide_border=true&locale=en&count_private=true&rank_icon=github" alt="dipankr's stats" />
     <img width=38% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankr&layout=compact&theme=dark&hide_border=true&locale=en" alt="dipankr languages"/>
     <img width=50% src="https://github-readme-streak-stats.herokuapp.com?user=dipankr&theme=dark&hide_border=true&locale=en" alt="dipankr's streak" />
