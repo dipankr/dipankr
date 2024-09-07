@@ -48,8 +48,8 @@
 
 > The backend service is down as I've exhausted my free instance quota
 ---
-
-<h3> Tools I use</h3>
+<details>
+<summary><h3> Tools I use</h3></summary>
 <p align="center">
     <code><img height="30" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
     <code><img height="30" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
@@ -65,10 +65,12 @@
     <code><img height="30" alt="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"></code>
     <code><img height="30" alt="tomcat" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg"></code>
 </p>
+</details>
 
 ---
+
 <details>
-<summary><b>:zap: GitHub Stats</b></summary>
+<summary><h3>:zap: GitHub Stats</h3></summary>
 <p align="center" style="align-content: space-around">
     <img width=50% src="https://github-readme-stats.vercel.app/api?username=dipankr&show_icons=true&theme=dark&hide_border=true&locale=en" alt="dipankr" />
     <img width=38% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankr&layout=compact&theme=dark&hide_border=true&locale=en" alt="dipankr"/>
