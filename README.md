@@ -9,7 +9,8 @@
 
 
 ---
-
+<details>
+<summary><b>POC: TODO List (SpringBoot + React + CI/CD + GitHub Actions)</b></summary>
 <table align="center">
     <tr style="font-weight: 600; font-size: 1.5rem">
         <td align="center">App</td>
@@ -45,8 +46,10 @@
         </td>
     </tr>
 </table>
+<code> The backend service is down as I've exhausted my free instance quota </code>
+</details>
 
-> The backend service is down as I've exhausted my free instance quota
+
 ---
 <b>:hammer_and_wrench: Tools I use</b>
 <p align="center">
