@@ -46,7 +46,7 @@
     </tr>
 </table>
 
-> The backend service is down as I've exhausted my free instance quota, will need to migrate it.
+> The backend service is down as I've exhausted my free instance quota
 ---
 
 <h3> Tools I use</h3>
@@ -77,6 +77,7 @@
 </p>
 </details>
 
+<!--
 <details>
 <summary><b>Donate</b></summary>
 <p align="right">
@@ -91,8 +92,9 @@
     </a> 
 </div>
 
+</details>
+-->
 ---
 
 > You can add your testimonial [here](https://github.com/dipankr/dipankr/discussions/14) and I will add it to my [Testimonials](TESTIMONIALS.md) file.
 
-</details>
