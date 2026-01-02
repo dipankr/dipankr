@@ -73,7 +73,7 @@
 </details>
 
 <!-- GitHub Stats -->
-<details open>
+<details>
 <summary><b>:chart_with_upwards_trend: My GitHub Stats</b></summary>
 <p align="center" style="align-content: space-around">
     <img width=85% src="https://github-contributor-stats.vercel.app/api?username=dipankr&limit=3&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Contributions"/>    
